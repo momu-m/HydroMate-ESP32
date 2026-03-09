@@ -2,7 +2,7 @@
  * AUTOMATISCHES BEWAESSERUNGS-SYSTEM - VERSION 4.4
  * 
  * Projekt: Smartes Bewaesserungssystem (IoT + Web)
- * Autor: momu-m (TEKO Bern - Systemtechnik)
+ * Student: Mo
  * Modul: Mikrocomputertechnik und Sensorik
  * 
  * NEU in v4.4:
