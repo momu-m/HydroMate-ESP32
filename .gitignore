@@ -1,0 +1,25 @@
+# ===== Betriebssystem-Dateien =====
+.DS_Store
+Thumbs.db
+
+# ===== Dokumentation (persoenliche Daten) =====
+1_Dokumentation/*.docx
+1_Dokumentation/*.pdf
+
+# ===== Python Hilfsskripte =====
+*.py
+__pycache__/
+*.pyc
+
+# ===== Virtual Environment =====
+venv/
+.venv/
+
+# ===== IDE =====
+.vscode/
+*.code-workspace
+
+# ===== Temporaere Dateien =====
+*.tmp
+*.bak
+*.log
